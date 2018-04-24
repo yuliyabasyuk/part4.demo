@@ -8,7 +8,11 @@ public class part4demo {
 		// TODO Auto-generated method stub
 		System.out.println("tutorial4. Team2");
 int k = 0;
+
 int n =1;
+
+int m =2;
+
 	}
 
 }
